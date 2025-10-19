@@ -1,4 +1,4 @@
-## **Professional Self-Assessment**
+### **Professional Self-Assessment**
 
 **Collaborating in a Team Environment:**
 
@@ -19,3 +19,5 @@ Enhancement Three features a dashboard and database of dogs at an animal shelter
 **Security:**
 
 Security is something I have delved into recently but have put at the forefront now that I have started learning IT skills such as networking, security, and configuration. These skills are on display specifically in enhancements two and three where I adjust the credentials to sign in with the MongoDB so that they are no longer hard coded. And the validation function in enhancement one further demonstrates my proficiency at enforcing and reinforcing the confidentiality, integrity, and availability triad that individuals specialized within the cybersecurity scene work so hard to maintain.
+
+## This youtube link showcases [my code review](https://youtu.be/Njj31jSMvbU)!
